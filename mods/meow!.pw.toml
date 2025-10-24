@@ -1,0 +1,16 @@
+filename = 'fabric-meow_keybind-1.0.0.jar'
+name = 'Meow!'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3c19a85809e140671eca8d35cfc392f51e4a5b8139a919381b428515b96970dafb08df77bfc63d5c0fa0775bd0c507d4075ce55e6bee4f50a6868a8735668a53'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xE4vWy6F/versions/ItvGmZG2/fabric-meow_keybind-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'xE4vWy6F'
+version = 'ItvGmZG2'

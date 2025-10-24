@@ -1,0 +1,16 @@
+filename = 'rightclickharvest-fabric-4.6.0+1.20.1.jar'
+name = 'RightClickHarvest'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7b898daceb3f8604b34cf8ef1758cffe0b3e5bbe49d3bfc1ecaddd879870e23ef8111f86b7270204d4cad9c8021a2d7e9902ccf6a23b6740a9b9d361021b0c1f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Cnejf5xM/versions/2eQQCZ5K/rightclickharvest-fabric-4.6.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Cnejf5xM'
+version = '2eQQCZ5K'

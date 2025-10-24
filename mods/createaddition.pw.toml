@@ -1,0 +1,16 @@
+filename = 'createaddition-fabric+1.20.1-1.2.6.jar'
+name = 'Create Crafts & Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f4ac98d196cef9cc0bfeac7d4070a60376b83cc5c441820a2d602443e7726aef8101fa5bbd5b60ea10ed926fc2770eff3fa5dda695268d1a96f16f4399b0bf77'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kU1G12Nn/versions/ybLiaryg/createaddition-fabric%2B1.20.1-1.2.6.jar'
+
+[update.modrinth]
+mod-id = 'kU1G12Nn'
+version = 'ybLiaryg'

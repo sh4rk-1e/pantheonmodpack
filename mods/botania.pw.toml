@@ -1,0 +1,16 @@
+filename = 'Botania-1.20.1-450-FABRIC.jar'
+name = 'Botania'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '58a5fea90acec93f216acc97e4d487bcea47a5a772e9a6ba1101f73c62f0ae6a477ebfefe840cc7d1ae9ee6b9a536c0c8d0326d48b0d6276bc12276797cd5171'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pfjLUfGv/versions/X2tY0LhB/Botania-1.20.1-450-FABRIC.jar'
+
+[update.modrinth]
+mod-id = 'pfjLUfGv'
+version = 'X2tY0LhB'

@@ -1,0 +1,16 @@
+filename = 'phlexiful-fabric-1.0.0.jar'
+name = 'Phlexiful'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bf7a3f4fb87d3b39101c354f4f937ba146cbe8b81ddc5e84d126bcc4a1a4759220beaf2f862933c9d84be4a5a0eceb8fe0c8f1974026f9af003f7fa5b7dc99f6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wZmv2tbP/versions/W2Tx6aRM/phlexiful-fabric-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'wZmv2tbP'
+version = 'W2Tx6aRM'

@@ -1,0 +1,16 @@
+filename = 'ftb-ultimine-fabric-2001.1.7.jar'
+name = 'FTB Ultimine (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '416c3af27ade2481cb7c2e2f82da6e1e1a022352'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6899416
+project-id = 448231

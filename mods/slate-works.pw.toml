@@ -1,0 +1,16 @@
+filename = 'Slate_Work-1.0.6.jar'
+name = 'Slate Works'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0143ce714f1775305c5879a22679bbd5559f8ebcc15492147d1a850bef08814d6731c4ce19d88e8b6ea4adabd7c1c355d1799c015b3873ea23a1f7b78c7c7b1a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3DnSSjl3/versions/c7oBSdsr/Slate_Work-1.0.6.jar'
+
+[update.modrinth]
+mod-id = '3DnSSjl3'
+version = 'c7oBSdsr'

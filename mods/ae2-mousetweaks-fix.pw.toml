@@ -1,0 +1,16 @@
+filename = 'AE2-MouseTweaks-Fix-2.0.0+1.20.1+fabric.jar'
+name = 'AE2 + Mouse Tweaks Fix'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18', '1.18.1', '1.18.2', '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b670d8003c32dfb7a83a5f6d61d240d1e19d61d16294585d70deeedacfe023abe99d5e648ea0e4245663d2d011dd28dea13f8c1654d68cf6c639d909b9111b8d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r3Ge6Tj5/versions/jJpmiNJP/AE2-MouseTweaks-Fix-2.0.0%2B1.20.1%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'r3Ge6Tj5'
+version = 'jJpmiNJP'

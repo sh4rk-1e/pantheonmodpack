@@ -1,0 +1,16 @@
+filename = 'hexstruction-fabric-1.2.1+1.20.1.jar'
+name = 'HexStruction'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f815ed9f240694aee937faa195a112a28549b83a9f39970e9590daad82e79d8d1297a9ebe867d5d9b6d4eb6c11b0eaaba66252d369485fd13502e9995828ad95'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dGRSMTTM/versions/hc9ISI7g/hexstruction-fabric-1.2.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'dGRSMTTM'
+version = 'hc9ISI7g'

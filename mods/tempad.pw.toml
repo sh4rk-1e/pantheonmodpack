@@ -1,0 +1,16 @@
+filename = 'tempad-fabric-1.20.1-2.3.4.jar'
+name = 'Tempad'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2fd9ce9e211cf35a5cb83dbd070960e65b27da3ea256d150d0c15e63f55c46f6c3b42a2fb30adcf5f47c21d282a751261bcdfdb0911d6250f5bc46cfff792b17'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gKNwt7xu/versions/XWIpedqY/tempad-fabric-1.20.1-2.3.4.jar'
+
+[update.modrinth]
+mod-id = 'gKNwt7xu'
+version = 'XWIpedqY'

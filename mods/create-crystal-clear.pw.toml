@@ -1,0 +1,16 @@
+filename = 'Crystal-Clear-2.1-Beta-fabric.jar'
+name = 'Create: Crystal Clear'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e80461981dda1179cb15f57f39d41d7418af3d37f88f32d9cfa01a4f7d1dc2192d378ee415bc02d5616c3ea2b418fcc3f326423f5f7baf5886bfaf23ff2d725e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/h7QgiH72/versions/jCoGpP8a/Crystal-Clear-2.1-Beta-fabric.jar'
+
+[update.modrinth]
+mod-id = 'h7QgiH72'
+version = 'jCoGpP8a'

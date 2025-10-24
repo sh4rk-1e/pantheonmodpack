@@ -1,0 +1,16 @@
+filename = 'fulleng-fabric-1.7.3-1.20.1.jar'
+name = 'Fullblock Energistics'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '345bfcf4c35935c2095dd626cf5aa502686c52c575da545559f982ad5af54e3830cd1ba64043e012036c2d777e701e89b9f41cc2a634f1011601b49cfbe361db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/24BlI6Ao/versions/ZUw8Y8R9/fulleng-fabric-1.7.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '24BlI6Ao'
+version = 'ZUw8Y8R9'

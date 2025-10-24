@@ -1,0 +1,16 @@
+filename = 'ae2infinite-1.20.1+1.0.0.jar'
+name = 'AE2Infinite'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '99ad2cc9ca4055e329cae4ed0d055a98b3274b70db117ac3864f4fce4e901bf9b0d53f5ca846253b8335678540d23802b2e9aad14d274a888bdd19bebb87acc7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XzXYd18A/versions/6jDiGvo9/ae2infinite-1.20.1%2B1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'XzXYd18A'
+version = '6jDiGvo9'

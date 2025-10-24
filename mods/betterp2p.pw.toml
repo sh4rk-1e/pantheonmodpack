@@ -1,0 +1,16 @@
+filename = 'betterp2p-1.5.0-fabric.jar'
+name = 'Better P2P'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aafa40b5dc06ac0208e9277dfb91ce1adba82cfb4e5f3957877677cc371f1ef36a396eab58276981a4aabe856a318404e5a8de50b3eecd2c0d61a9a2c1facab5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9DDxOvTJ/versions/1IxkhVuG/betterp2p-1.5.0-fabric.jar'
+
+[update.modrinth]
+mod-id = '9DDxOvTJ'
+version = '1IxkhVuG'

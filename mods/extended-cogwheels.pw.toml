@@ -1,0 +1,16 @@
+filename = 'extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar'
+name = 'Create: Extended Cogwheels'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '156018db639d190525b465b457dbe7e83e6172f4e60f020dae6f6fc616d426bf01498dba10a5818f24c9cb77b72047b63c98cd24986ef91dbc36684b5f942bf5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qO4lsa4Y/versions/22pR1H3P/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar'
+
+[update.modrinth]
+mod-id = 'qO4lsa4Y'
+version = '22pR1H3P'

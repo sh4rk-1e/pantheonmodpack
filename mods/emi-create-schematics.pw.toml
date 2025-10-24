@@ -1,0 +1,16 @@
+filename = 'EMI Create Schematics [1.0.1 Fabric 1.20.1].jar'
+name = 'EMI: Create Schematics'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '83b1b4a54586d3c494a5eb8a55cd6414d4a2c8d1fd405662fa729040c443d600569aac15ea34f57375d01cdf177b1d7f30594c153154a5f205139f012b4bf4a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5bgqgixq/versions/gWlEw051/EMI Create Schematics %5B1.0.1 Fabric 1.20.1%5D.jar'
+
+[update.modrinth]
+mod-id = '5bgqgixq'
+version = 'gWlEw051'

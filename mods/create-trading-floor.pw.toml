@@ -1,0 +1,16 @@
+filename = 'trading_floor-1.1.10+fabric-1.20.1.jar'
+name = 'Create: Trading floor'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '15f3d03249ea669e5fbe07bdacae45936b272b2f7a300b49d3e4c9ce0329316c8d536a0474668f75fb506c990dff213d3cd84a991c8760da950b2b84c8ca9e73'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WROfLLvn/versions/zn8QgUge/trading_floor-1.1.10%2Bfabric-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'WROfLLvn'
+version = 'zn8QgUge'

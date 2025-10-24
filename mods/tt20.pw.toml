@@ -1,0 +1,16 @@
+filename = 'tt20-0.7.2+mc1.20.1.jar'
+name = 'TT20 (TPS Fixer)'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4b9aee9616fdb2d13139c343b750be4e1856f3c1fb07e3274d846bcecb5a32b93ad79819f2b31fa5d88633c5099c72ff877a9b244ba9150d25618e7eb71e4f50'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YS3ZignI/versions/ahmZ3Yw2/tt20-0.7.2%2Bmc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'YS3ZignI'
+version = 'ahmZ3Yw2'

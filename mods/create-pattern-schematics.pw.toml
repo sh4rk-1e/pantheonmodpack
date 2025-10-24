@@ -1,0 +1,16 @@
+filename = 'pattern_schematics-1.1.19+fabric-1.20.1.jar'
+name = 'Create: Pattern Schematics'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '04e72091910239a023db0abb34d19028a8381189b6c93d3762ce3a001f8b56bbabfe18a71b4292238ee502bd7403bd475dfbb9175f30d620c5191135e4e79483'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cpqKG67r/versions/AisNWHR7/pattern_schematics-1.1.19%2Bfabric-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'cpqKG67r'
+version = 'AisNWHR7'

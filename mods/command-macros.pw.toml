@@ -1,0 +1,16 @@
+filename = 'cmdkeybind-1.6.3-1.20.jar'
+name = 'Command Macros'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '55a13b9310118234b897f9f28d3bb681c09cde25e2d8df7808573df89bcf2365ab76f31d1220701b49acfa2620785be8b69d73cab6e63b52f81deaadae688bdf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/h3r1moh7/versions/snLr0hHP/cmdkeybind-1.6.3-1.20.jar'
+
+[update.modrinth]
+mod-id = 'h3r1moh7'
+version = 'snLr0hHP'

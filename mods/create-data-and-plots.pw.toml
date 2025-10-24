@@ -1,0 +1,16 @@
+filename = 'create-dataplots-1.20.1-19b.jar'
+name = 'Create: Data and Plots'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'f3886ecf470e0f34c7cf3d0ea286735958c93785cbfda8742990bbd0541e341de7464d0b010f90e61c8fb649e178dbd4f5be2b7d4877e76a6dd8f18b2fc41c50'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vf089MQY/versions/MzlgYkaI/create-dataplots-1.20.1-19b.jar'
+
+[update.modrinth]
+mod-id = 'vf089MQY'
+version = 'MzlgYkaI'

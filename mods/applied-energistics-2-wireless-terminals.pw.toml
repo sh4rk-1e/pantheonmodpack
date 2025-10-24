@@ -1,0 +1,16 @@
+filename = 'ae2wtlib-15.2.1-fabric.jar'
+name = 'Applied Energistics 2 Wireless Terminals'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aa1593f4466370daf2c4acbeea93dbb6249e9aaddaacc0383b0b016067ca47202398d89255812fa5758c56e873fbedb23595c1f05be01e9736f978a771332bca'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pNabrMMw/versions/QewbGM3G/ae2wtlib-15.2.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'pNabrMMw'
+version = 'QewbGM3G'

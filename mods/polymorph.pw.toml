@@ -1,0 +1,16 @@
+filename = 'polymorph-fabric-0.49.10+1.20.1.jar'
+name = 'Polymorph'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2a4ab72bf6a925445fe4a8513720e26ffd47bda3e14ec5977809b533101e1a385d5a9c73bab3b2d4c6a41421f13eeeb665dab0440c6dfd16ba1a2464c46dfbbe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tagwiZkJ/versions/oARBy1is/polymorph-fabric-0.49.10%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'tagwiZkJ'
+version = 'oARBy1is'
